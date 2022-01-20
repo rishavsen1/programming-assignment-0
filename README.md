@@ -14,4 +14,9 @@ This is an introductory homework. The idea is to complete the steps as listed be
 
 ## References 
 
-You may want to refer to pandas documentation and tutorials. Take a look at the attached documentation of pandas
+You may want to refer to pandas documentation and tutorials. Take a look at the [attached documentation of pandas](Pandas.pdf). Other useful pandas links
+
+* https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
+* https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.apply.html
+* https://jonathansoma.com/lede/foundations/classes/pandas%20columns%20and%20functions/apply-a-function-to-every-row-in-a-pandas-dataframe/
+* https://datatofish.com/sort-pandas-dataframe/
