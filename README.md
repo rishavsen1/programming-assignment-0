@@ -11,3 +11,7 @@ This is an introductory homework. The idea is to complete the steps as listed be
 5. Read https://towardsdatascience.com/connecting-google-colab-to-an-amazon-ec2-instance-b61be9f9cf30
 6. Run Assignment_0 notebook on AWS using the instructions from step 5 and save it as Assignment_0-aws.ipynb in your repository.
 8. Submit the link of your repository that was created by github classroom in the brightspace as the submission to the assignment. This last step is critical. Without this your work is not considered submitted.
+
+## References 
+
+You may want to refer to pandas documentation and tutorials. Take a look at the attached documentation of pandas
