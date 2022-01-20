@@ -9,6 +9,6 @@ This is an introductory homework. The idea is to complete the steps as listed be
 3. [Read the pdf that shows how to collect the link saying open in colab for the notebook](CorrectingTheLinksInPythonNotebook.pdf) and open the [assignment0.ipynb](assignment0.ipynb) in google colab and correct the link.
 4. Run the steps listed in [assignment0.ipynb](assignment0.ipynb) and save it back to github.
 5. Read https://towardsdatascience.com/connecting-google-colab-to-an-amazon-ec2-instance-b61be9f9cf30 
-6. Implement the steps in assignment0-aws using aws on colab. 
-7. Submit the link of your repository that was created by github classroom in the brightspace as the submission to the assignment. This last step is critical. Without this your work is not considered submitted.
+6. Run assignment 0 notebook on AWS using the instructions from step 5 and save it as assignment0-aws.ipynb in your repository.
+8. Submit the link of your repository that was created by github classroom in the brightspace as the submission to the assignment. This last step is critical. Without this your work is not considered submitted.
 
