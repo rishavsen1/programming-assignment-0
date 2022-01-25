@@ -15,8 +15,6 @@ This is an introductory homework. The idea is to complete the steps as listed be
 
 # Additional Instructions
 
-# Instructions to complete assignment 0
-
 ## Instance creation
 
 - Use "Ubuntu Server 20.04 LTS" with type "t2.large", increase disk memory size to 16gb, and open port 8888 for jupyter
