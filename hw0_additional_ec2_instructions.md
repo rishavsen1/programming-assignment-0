@@ -78,6 +78,8 @@ sudo bash -c 'echo "/swapfile none swap sw 0 0" >> /etc/fstab'
 ssh -i ~/.ssh/yourKey.pem -L 8888:127.0.0.1:8888 ubuntu@0...
 ```
 
+**Note** If you use windows as your host environment, please use putty and [follow these instructions to convert the .pem (the private key)](https://aws.amazon.com/premiumsupport/knowledge-center/ec2-ppk-pem-conversion/) into ppk format that can be used with putty. Use [these instructions to setup port forwarding on putty](http://sysnews.ma.ic.ac.uk/ssh/port-forwarding-for-Windows-using-PuTTY.html) Note the source port is 8888 and destionation is 127.0.0.1:8888.  
+
 - follow instructions [here](https://research.google.com/colaboratory/local-runtimes.html) to connect colab to your notebook instance (commands to do so are below)
 
 ```
